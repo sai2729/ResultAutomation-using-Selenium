@@ -62,6 +62,9 @@ Example command to fetch results and save them to a CSV file:
 python resultfetcher_updated.py --source-url "http://example.com/results" --output-file "results.csv"
 ```
 
+## Video Tutorial
+For a detailed walkthrough on how to use this script, check out the [YouTube video tutorial](https://www.youtube.com/watch?v=Ku6y8izYEn4).
+
 ## Contribution
 Contributions are welcome! Please submit a pull request or open an issue on GitHub if you have suggestions for improvements or bug reports.
 
